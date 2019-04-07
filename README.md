@@ -1,2 +1,1 @@
-# sundaypage
-Just create
+# pretty-one-page
